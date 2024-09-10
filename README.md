@@ -28,7 +28,9 @@ The starter code folder named part_1_mars_news.ipynb was given.
 The following steps below was used to scrape the Mars News website.
 
    1. Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
+   
 # Hint
+
    2. Create a Beautiful Soup object and use it to extract text 
       elements from the website.
       
@@ -55,7 +57,8 @@ weather data.
       which elements to scrape. Note that the URL 
       is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
    
-#Hint
+# Hint
+
    2. Create a Beautiful Soup object and use it to scrape the data in 
       the HTML table. Note that this can also be achieved by using 
       the Pandas read_html function. However, use Beautiful Soup 
@@ -81,6 +84,7 @@ weather data.
       to the appropriate datetime, int, or float data types.
        
 # Hint
+
     5. Analyze your dataset by using Pandas functions to answer
        the following questions:
        o How many months exist on Mars?
