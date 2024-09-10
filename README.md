@@ -76,9 +76,9 @@ weather data.
         single Martian day (sol)
       o pressure: The atmospheric pressure at Curiosity's location
       
-    4. Examine the data types that are currently associated with 
-       each column. If necessary, cast (or convert) the data 
-       to the appropriate datetime, int, or float data types.
+   4. Examine the data types that are currently associated with 
+      each column. If necessary, cast (or convert) the data 
+      to the appropriate datetime, int, or float data types.
        
 # Hint
     5. Analyze your dataset by using Pandas functions to answer
@@ -88,27 +88,27 @@ weather data.
          in the scraped dataset?
        o What are the coldest and the warmest months on Mars
          (at the location of Curiosity)? To answer this question:
-        1. Find the average minimum daily temperature for all 
-           of the months.
-        2. Plot the results as a bar chart.
-           o Which months have the lowest and the highest 
-             atmospheric pressure on Mars? 
-             
-             ![average_pressure](https://github.com/user-attachments/assets/8a5c90e8-453c-4b61-9a4f-cfdb4a6596e9)
+    1. Find the average minimum daily temperature for all 
+       of the months.
+    2. Plot the results as a bar chart.
+       o Which months have the lowest and the highest 
+         atmospheric pressure on Mars? 
+         
+         ![average_pressure](https://github.com/user-attachments/assets/8a5c90e8-453c-4b61-9a4f-cfdb4a6596e9)
 
-        3. Find the average daily atmospheric pressure of all the months.
-        4. Plot the results as a bar chart.
-           o About how many terrestrial (Earth) days exist in a 
-             Martian year? 
-             
-             ![min_temp](https://github.com/user-attachments/assets/3de02991-8ae0-4b83-9f3a-e2de3863c823)
+    3. Find the average daily atmospheric pressure of all the months.
+    4. Plot the results as a bar chart.
+       o About how many terrestrial (Earth) days exist in a 
+         Martian year? 
+         
+         ![min_temp](https://github.com/user-attachments/assets/3de02991-8ae0-4b83-9f3a-e2de3863c823)
 
-        5. Consider how many days elapse on Earth in the time that 
-           Mars circles the Sun once.
-        6. Visually estimate the result by plotting the daily 
-           minimum temperature of each observation.
-           
-     6. Export the DataFrame to a CSV file.
+    5. Consider how many days elapse on Earth in the time that 
+       Mars circles the Sun once.
+    6. Visually estimate the result by plotting the daily 
+       minimum temperature of each observation.
+       
+ 6. Export the DataFrame to a CSV file.
 
 # Table of Contents
    1. part_1_mars_news.ipynb
