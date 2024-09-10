@@ -1,4 +1,6 @@
 # Data_collection_Scrapping_Analyzing
+![web_scrapping](https://github.com/user-attachments/assets/83019d5d-db44-4227-bb36-fa120f257d8a)
+
 # Introduction
 
  A full web-scraping and data analysis project.In this project 
@@ -10,6 +12,9 @@
  and HTML parsing with Beautiful Soup, also learned to scrape 
  various types of information. These include HTML tables and 
  recurring elements, like multiple news articles on a webpage.
+ 
+ ![mars](https://github.com/user-attachments/assets/5e98eee5-e315-4190-b8da-edb1833f6429)
+
 
 # Deliverables
 
@@ -87,11 +92,17 @@ weather data.
            of the months.
         2. Plot the results as a bar chart.
            o Which months have the lowest and the highest 
-             atmospheric pressure on Mars? To answer this question:
+             atmospheric pressure on Mars? 
+             
+             ![average_pressure](https://github.com/user-attachments/assets/8a5c90e8-453c-4b61-9a4f-cfdb4a6596e9)
+
         3. Find the average daily atmospheric pressure of all the months.
         4. Plot the results as a bar chart.
            o About how many terrestrial (Earth) days exist in a 
-             Martian year? To answer this question:
+             Martian year? 
+             
+             ![min_temp](https://github.com/user-attachments/assets/3de02991-8ae0-4b83-9f3a-e2de3863c823)
+
         5. Consider how many days elapse on Earth in the time that 
            Mars circles the Sun once.
         6. Visually estimate the result by plotting the daily 
